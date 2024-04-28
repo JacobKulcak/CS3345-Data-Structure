@@ -1,0 +1,4 @@
+
+The provided Java program implements topological sorting for a directed graph using depth-first search. The program consists of a Graph class that represents the graph with an adjacency list. The topologicalSortUtil method is a recursive function that explores vertices in a depth-first manner, marking them as visited and pushing them onto a stack. The topologicalSort method serves as the public interface for topological sorting, initializing data structures and calling the utility function for each unvisited vertex.
+
+The given .pdf file gives handwritten answers to the textbook questions, involving minimum spanning trees, shortest path calculations, and unions.

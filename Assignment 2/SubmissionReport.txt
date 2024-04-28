@@ -1,0 +1,29 @@
+3.11 - List
+
+This class represents a singly linked list with a header node. It provides methods to determine the size of the list, print its contents, check for the presence of a value, add a value (if not already present), and remove a value (if present).
+
+3.21 (b) - Symbol
+
+This program consists of a method that detects whether an input string has balanced symbols or not. It loops through the given string, and detects an opening character such as [ or {. It pushes these opening characters to a stack, and then waits for a closing character. When a closing character is found, the program searches if the newest popped stack element matches. If all opening and closing characters match, an empty stack is returned, indicating a balanced character string.
+
+3.33 - CircularQueue
+This class represents a circular queue implemented using an array. It provides methods to check if the queue is empty or full, enqueue an element to the rear, dequeue an element from the front, and peek at the front element without dequeuing it.
+
+4.8 Gives a written example of prefix, postfix, and infix for the given tree.
+
+4.19 Shows a visual of elements being added to an empty AVL tree
+
+4.23 - AVL Tree
+This class represents an AVL tree (a self-balancing binary search tree). It offers a method to insert a key into the tree while ensuring that the tree remains balanced, making use of rotations when necessary.
+
+4.27 Has a splay tree having various elements accessed from it
+
+4.34 - This class provides a method to generate a random binary search tree (BST) with a given number of nodes. The nodes have distinct keys ranging from 1 through N.
+
+5.1 Consists a hash table being filled with values with different hash methods, from chaining, to linear probing, quadratic probing, and double hashing
+
+5.3 - HashCollisions:
+This class demonstrates the behavior of three hash collision resolution strategies: linear probing, quadratic probing, and double hashing. The program begins by generating a file with a large number of random unique numbers. Then, it reads these numbers, hashes each one, and inserts it into a hash table using each of the three strategies, keeping track of the number of collisions encountered. Finally, it prints a report showing the number of collisions for each strategy. The class showcases the difference in performance between the three strategies in handling hash collisions.
+
+5.5 - Chaining
+This class represents a singly-linked list holding generic data of type T. The class provides basic functionalities such as adding an element to the end, removing a specific element, checking if an element exists in the list, clearing all elements from the list, and printing the entire list. The inner Node class represents the individual elements of the list and encapsulates the data and a reference to the next node in the list.

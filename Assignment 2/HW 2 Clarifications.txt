@@ -1,0 +1,11 @@
+3.11, 3.21(b), 3.33, 4.23, 4.34, 5.3 and 5.5 should all be implemented in java. You must submit the entire java project including the main class so that your submission can be run and tested. If you send only the method or a part of it, it will not execute. Make sure to include all supporting files so that it can be executed. Please include a brief description of the program/algorithm, descriptive comments in your code, and complexity analysis for the same
+
+In exercise 3.21, use a stack when checking for balanced symbols.
+
+Exercise 4.27 requires you to show the result of accessing the keys 3, 9, 1, 5 (in the same order) in the given splay tree. You do not need to show the intermediate trees after each rotation. You can directly show the result of the splay tree when 3 is accessed, 9, 1 and then for 5 (overall 4 situations)
+
+In exercise 5.3, the question is asking to write a program that implements the different collision resolutions methods mentioned. Then you test run it using a large input file of random numbers that you need to create. The program at the end should produce a report about the count of collisions each method had to have
+
+140 points will be given for all correct solutions including program, algorithm description, complexity analysis, etc
+
+10 points for the submission report organization and format. This should include the entire java project in a zip files, and the document in .xxx where xxx is txt, doc, docx, pdf or jpg
